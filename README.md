@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Link to the Website : https://netflix-clone-25d79.web.app/
+
+Technologies and APIs used: ReactJS, JavaScript, CSS, Firebase, TMDB API for movie database, react-youtube, movie-trailer package
+
 ## Available Scripts
 
 In the project directory, you can run:
